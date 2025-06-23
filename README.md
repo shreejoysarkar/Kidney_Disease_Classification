@@ -1,1 +1,1 @@
-# Chicken_Disease_Classification
+# Kidney_Disease_Classification
